@@ -1,4 +1,6 @@
-### Hi there 👋
+### Salut👋, je suis W.Paulin GUIGMA
+Programmeurs
+🌱 I’m currently learning more in programming language and more others in computer science for any welcoming service
 
 <!--
 **07gitgp01/07gitgp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
