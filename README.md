@@ -1,5 +1,5 @@
-### Salut👋, je suis W.Paulin GUIGMA
-Programmeurs
+### Hello👋, I am W.Paulin GUIGMA
+As Programer,
 🌱 I’m currently learning more in programming language and more others in computer science for any welcoming service
 
 <!--
