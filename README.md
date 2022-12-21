@@ -1,13 +1,14 @@
 ### ***Hello👋, I am <font color="blue"><ins>W.Paulin GUIGMA***</font>
 **As Programer**,
+<font color="lightgreen">🌱 I’m currently learning more in programming language in computer science for any welcoming service.</font>
 
-<font color="lightgreen">🌱 I’m currently learning more in programming language and more others in computer science for any welcoming service.</font>
-
-**For the next I d'ont know yet what to say 😄**
+**E-mail:** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a>
+**Telephone:** <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf"> 
+**For the next I don't know yet what to say 😄**
 
 > # <font color="purple"> <ins>**My programming skills:**</ins></font>
 >> | 1.<font color="blue"> <ins>Ability to handle languages</ins></font> | 2.<font color="blue"> <ins>.Others</ins></font> |
->> |--------------------------------- | --------- |
+>> |--------------------------------- | -----------------------------------------------------|
 >> | <font color="purple">**-Python:**</font> Well <font color="blue">***50%***</font> |**********++++++++++++++*|
 >> |||
 >> | <font color="purple">**-Html&Css:</font>** little bit well <font color="blue">***70%***</font> |++++|
@@ -22,6 +23,7 @@
 >> |||
 >> ||++++|
 
+ 
 <!--
 **07gitgp01/07gitgp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
