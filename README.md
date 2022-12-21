@@ -2,8 +2,11 @@
 **As Programer**,
 <font color="lightgreen">🌱 I’m currently learning more in programming language in computer science for any welcoming service.</font>
 
-**E-mail:** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a>
-**Telephone:** <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf"> 
+**E-mail :** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a>
+**Telephone:** 
+ 
+ <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf" width="200">
+ 
 **For the next I don't know yet what to say 😄**
 
 > # <font color="purple"> <ins>**My programming skills:**</ins></font>
