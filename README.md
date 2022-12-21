@@ -1,5 +1,5 @@
-### *** Hello👋, I am <font color="blue"><ins>W.Paulin GUIGMA ***</font>
-** As Programer **,
+### ***Hello👋, I am <font color="blue"><ins>W.Paulin GUIGMA***</font>
+**As Programer**,
 
 <font color="lightgreen">🌱 I’m currently learning more in programming language and more others in computer science for any welcoming service.</font>
 
