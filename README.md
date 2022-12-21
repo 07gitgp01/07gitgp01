@@ -5,10 +5,10 @@
 **E-mail :** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a>
 **Telephone:** 
  
- <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf" width="200">
+ <img src="![Screenshot_20201119-161348](https://user-images.githubusercontent.com/121047534/208942724-686cd27e-60aa-4094-8035-1de8c3b8e1d3.png)" width="200">
  
  <figure>
-    <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf"
+    <img src="![Screenshot_20201119-161348](https://user-images.githubusercontent.com/121047534/208942724-686cd27e-60aa-4094-8035-1de8c3b8e1d3.png)"
          alt="Adversity is the key of potential">
     <figcaption>My objectif</figcaption>
 </figure>
