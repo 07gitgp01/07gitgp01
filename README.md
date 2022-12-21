@@ -17,7 +17,7 @@
 >> | <font color="purple">**-PHP:** Be</font>ginner <font color="blue">***25%***</font>|+++|
 >> |||
 >> | <font color="purple">**-SQL:** 🤔🤔</font>🤔🤔 <font color="blue">***45%***</font>|+++|
->> ||+++|
+>> |||
 >> | <font color="purple">**-SCILAB:**</font> Enougth to remember it easily <font color="blue">***60%***</font>|++++|
 >> |||
 >> ||++++|
