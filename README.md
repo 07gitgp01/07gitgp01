@@ -7,6 +7,12 @@
  
  <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf" width="200">
  
+ <figure>
+    <img src="https://photos.google.com/photo/AF1QipNGX-sTlaAb53G9JjP2Io4uiTXi_HI52BB24rnf"
+         alt="Adversity is the key of potential">
+    <figcaption>My objectif</figcaption>
+</figure>
+ 
 **For the next I don't know yet what to say 😄**
 
 > # <font color="purple"> <ins>**My programming skills:**</ins></font>
