@@ -2,8 +2,8 @@
 **As Programer**,
 <font color="lightgreen">🌱 I’m currently learning more in programming language in computer science for any welcoming service.</font>
 
-**E-mail :** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a>\n
-**Telephone:**  ***+226 64095771/ +226 60323945***
+<font>**E-mail :** <a href="https://www.gmail.com/" tab="_blank">guigmawpaulin@gmail.com</a></font>
+<font>**Telephone:**  ***+226 64095771/ +226 60323945***</font>
  
  <img src="[Screenshot_20201119-161348](https://user-images.githubusercontent.com/121047534/208942724-686cd27e-60aa-4094-8035-1de8c3b8e1d3.png)" width="200">
  
